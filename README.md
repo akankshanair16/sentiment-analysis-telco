@@ -1,8 +1,18 @@
-# Sentiment Analysis of Telecom Customer Feedback
+# Sentiment Analysis of Telco Customer Feedback
 
-This repository contains the Python notebook and data files used to analyse customer sentiment and identify churn risk in telecom feedback.
+A solo project using Python and Excel to extract insights from telecom customer feedback through sentiment analysis. This project uses the VADER sentiment model to classify feedback into Positive, Neutral, and Negative, highlighting customer pain points linked to churn.
+
+---
 
 ## Project Overview
-- Data cleaning using Power Query and Python
-- Sentiment analysis with VADER
-- Visualisation of sentiment distribution
+
+With customer churn being a major challenge in the telecom industry, this project explores how **unstructured customer feedback** can provide early warning signs of dissatisfaction. The goal is to quantify sentiment trends and surface issues that structured data alone may miss.
+
+---
+
+## Tools & Technologies
+
+- **Python** (pandas, NLTK, matplotlib, seaborn)
+- **VADER Sentiment Analysis** (via NLTK)
+- **Excel / Power Query** (initial cleaning and structuring)
+- **Jupyter Notebook** (for code and visualizations)
